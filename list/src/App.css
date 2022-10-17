@@ -1,0 +1,33 @@
+body {
+  background-color: #F0F2F5;
+}
+
+
+.App {
+ 
+  align-items: center;
+  text-align: center;
+  background-color: rgb(152, 187, 187);
+  width: 20%;
+  margin: auto;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 1px 3px 4px black;
+  
+}
+
+.btn {
+  margin-bottom: 0px;
+  color: black;
+  font-weight: 900;
+
+
+}
+.Mylist {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+

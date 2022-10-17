@@ -1,0 +1,9 @@
+
+.iconCheck {
+  color: green;
+}
+
+.iconPeding {
+    color: rgb(240, 240, 212);
+    cursor: pointer;
+}
